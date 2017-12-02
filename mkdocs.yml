@@ -1,4 +1,10 @@
 site_name: AustralianHPC.org
 
+pages:
+        - Home: index.md
+        - Sites: sites.md
+        - Systems: systems.md
+        - Resources: resources.md
+
 theme:
           name: 'material'
