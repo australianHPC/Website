@@ -2,8 +2,7 @@
 
 Region | Site name | Systems | Website
 ------:|-----------|---------|--------
-ACT | Australian National University | | [http://anu.edu.au/](http://anu.edu.au/)
-| National Compute Infrastructure (NCI) | Raijin | [http://nci.org.au/](http://nci.org.au/)
+ACT | National Compute Infrastructure (NCI) | Raijin | [http://nci.org.au/](http://nci.org.au/)
 NSW | University of New South Wales | Clive | [http://www.unsw.edu.au](http://www.unsw.edu.au)
 | | Katana |
 | University of Newcastle | RCG | [http://www.newcastle.edu.au/](http://www.newcastle.edu.au/)
