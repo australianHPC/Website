@@ -2,7 +2,11 @@
 
 Region | Site name | Systems | Website
 ------:|-----------|---------|--------
-ACT | National Compute Infrastructure (NCI) | Raijin | [http://nci.org.au/](http://nci.org.au/)
+ACT | CSIRO  | Bracewell | [http://csiro.au/](http://csiro.au/)
+| | Bragg-w |
+| | Pearcey |
+| | Ruby |
+| National Compute Infrastructure (NCI) | Raijin | [http://nci.org.au/](http://nci.org.au/)
 NSW | University of New South Wales | Clive | [http://www.unsw.edu.au](http://www.unsw.edu.au)
 | | Katana |
 | University of Newcastle | RCG | [http://www.newcastle.edu.au/](http://www.newcastle.edu.au/)
@@ -26,10 +30,6 @@ TAS | Tasmanian Partnership for Advanced Computing | Eddy | [http://www.tpac.org
 | | Kunanyi |
 | | Vortex |
 VIC | Bureau of Meteorology  | | [http://www.bom.gov.au/](http://www.bom.gov.au/)
-| CSIRO  | Bracewell | [http://csiro.au/](http://csiro.au/)
-| | Bragg-w |
-| | Pearcey |
-| | Ruby |
 | Monash University  | MonARCH | http://monash.edu/
 | | MASSIVE |
 | University of Melbourne  | Spartan | [https://dashboard.hpc.unimelb.edu.au/](https://dashboard.hpc.unimelb.edu.au/)
