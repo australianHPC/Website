@@ -1,4 +1,5 @@
 site_name: AustralianHPC.org
+site_url: https://australianhpc.org/
 
 pages:
         - Home: index.md
