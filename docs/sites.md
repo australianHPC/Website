@@ -35,8 +35,8 @@ VIC | Bureau of Meteorology  | | [http://www.bom.gov.au/](http://www.bom.gov.au/
 | | MASSIVE |
 | University of Melbourne  | Spartan | [https://dashboard.hpc.unimelb.edu.au/](https://dashboard.hpc.unimelb.edu.au/)
 | Melbourne Bioinformatics (UoM) | Barcoo | [https://www.melbournebioinformatics.org.au/](https://www.melbournebioinformatics.org.au/)
-| Melbourne Bioinformatics (UoM) | Merri |
-| Melbourne Bioinformatics (UoM) | Snowy |
+|  | Merri |
+|  | Snowy |
 | Swinburne University of Technology  | gSTAR | [https://supercomputing.swin.edu.au/](https://supercomputing.swin.edu.au/)
 | | OzStar |
 WA | Pawsey | Athena | [https://www.pawsey.org.au/](https://www.pawsey.org.au/)
