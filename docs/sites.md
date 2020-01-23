@@ -6,7 +6,8 @@ ACT | CSIRO  | Bracewell | [http://csiro.au/](http://csiro.au/)
 | | Bragg-w |
 | | Pearcey |
 | | Ruby |
-| National Compute Infrastructure (NCI) | Raijin | [http://nci.org.au/](http://nci.org.au/)
+| National Compute Infrastructure (NCI) | Gadi | [http://nci.org.au/](http://nci.org.au/)
+| | Raijin |
 NSW | University of New South Wales | Clive | [http://www.unsw.edu.au](http://www.unsw.edu.au)
 | | Katana |
 | University of Newcastle | RCG | [http://www.newcastle.edu.au/](http://www.newcastle.edu.au/)
@@ -36,8 +37,8 @@ VIC | Bureau of Meteorology  | | [http://www.bom.gov.au/](http://www.bom.gov.au/
 | University of Melbourne  | Spartan | [https://dashboard.hpc.unimelb.edu.au/](https://dashboard.hpc.unimelb.edu.au/)
 | Swinburne University of Technology  | gSTAR | [https://supercomputing.swin.edu.au/](https://supercomputing.swin.edu.au/)
 | | OzStar |
-WA | Pawsey | Athena | [https://www.pawsey.org.au/](https://www.pawsey.org.au/)
+WA | Pawsey | Galaxy | [https://www.pawsey.org.au/](https://www.pawsey.org.au/)
 | | Galaxy |
 | | Magnus |
+| | Topaz |
 | | Zeus |
-| | Zythos |
