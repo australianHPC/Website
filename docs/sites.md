@@ -38,7 +38,6 @@ VIC | Bureau of Meteorology  | | [http://www.bom.gov.au/](http://www.bom.gov.au/
 | Swinburne University of Technology  | gSTAR | [https://supercomputing.swin.edu.au/](https://supercomputing.swin.edu.au/)
 | | OzStar |
 WA | Pawsey | Galaxy | [https://www.pawsey.org.au/](https://www.pawsey.org.au/)
-| | Galaxy |
 | | Magnus |
 | | Topaz |
 | | Zeus |
